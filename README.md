@@ -8,3 +8,4 @@ This will be my first commit to GitHub repository.
 This will be my first file on GitHub. 
 I have added new text into this file.
 This is a staged line.
+This is an unstaged line.
